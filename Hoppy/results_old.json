@@ -1,0 +1,2376 @@
+[
+  {
+    "url": "http://google.com/",
+    "seo": {
+      "title": "Google",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/imghp?hl=en&tab=wi",
+    "seo": {
+      "title": "Google Images",
+      "description": "text/html; charset=utf-8",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "http://maps.google.co.uk/maps?hl=en&tab=wl",
+    "seo": {
+      "title": "Before you continue to Google Maps",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/?hl=en&tab=w8",
+    "seo": {
+      "description": "enjoy millions of the latest android apps, games, music, movies, tv, books, magazines &amp; more. anytime, anywhere, across your devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/?tab=w1",
+    "seo": {
+      "title": "YouTube",
+      "description": "enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on youtube.",
+      "keywords": "video, sharing, camera phone, video phone, free, upload",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.co.uk/intl/en/about/products?tab=wh",
+    "seo": {
+      "title": "Google's products and services  - About Google",
+      "description": "explore google's helpful products and services, including android, gemini, pixel and search.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "http://www.google.co.uk/history/optout?hl=en",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.com/&ec=GAZAAQ",
+    "seo": {
+      "title": "Sign in - Google Accounts",
+      "description": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "http://www.google.com/setprefdomain?prefdom=GB&amp;prev=http://www.google.co.uk/&amp;sig=6922fb64K_tNXBFtNxru_E-yyrOWFebujzuZc%3D",
+    "seo": {
+      "title": "Google",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.co.uk/webhp?tab=iw",
+    "seo": {
+      "title": "Google",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://maps.google.co.uk/maps?hl=en&tab=il",
+    "seo": {
+      "title": "Before you continue to Google Maps",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/?hl=en&tab=i8",
+    "seo": {
+      "description": "enjoy millions of the latest android apps, games, music, movies, tv, books, magazines &amp; more. anytime, anywhere, across your devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/?tab=i1",
+    "seo": {
+      "title": "YouTube",
+      "description": "enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on youtube.",
+      "keywords": "video, sharing, camera phone, video phone, free, upload",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.co.uk/intl/en/about/products?tab=ih",
+    "seo": {
+      "title": "Google's products and services  - About Google",
+      "description": "explore google's helpful products and services, including android, gemini, pixel and search.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/imghp%3Fhl%3Den%26tab%3Dwi&ec=GAZAAg",
+    "seo": {
+      "title": "Sign in - Google Accounts",
+      "description": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://accounts.google.com/ServiceLogin?hl=en&amp;cd=GB&amp;continue=https://www.google.co.uk/maps?hl%3Den%26tab%3Dwl&amp;gae=cb-eomtm",
+    "seo": {
+      "title": "Sign in - Google Accounts",
+      "description": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://policies.google.com/technologies/cookies?hl=en&utm_source=ucb",
+    "seo": {
+      "title": "How Google uses cookies – Privacy &amp; Terms – Google",
+      "h1": [
+        "How Google uses cookies",
+        "Purposes of cookies and similar technologies used by Google",
+        "Managing cookies in your browser",
+        "Managing similar technologies in your apps and devices"
+      ],
+      "h2": [
+        "Functionality",
+        "Security",
+        "Analytics",
+        "Advertising",
+        "Personalization"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://consent.google.co.uk/dl?continue=https://www.google.co.uk/maps?hl%3Den%26tab%3Dwl&amp;gl=GB&amp;hl=en&amp;cm=2&amp;pc=m&amp;uxe=eomtm&amp;src=1&amp;escs=ATOEXqLGEVpEIjIjdp2YkCZlsutDbfjbvYn7bm9-_u0pXYriVcsIHhCr4yuVctOEvJkYs_U42p12rS8Kiu0AxZ18XCufd_p7Vja0",
+    "seo": {
+      "title": "Error 400 (Bad Request)!!1",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://policies.google.com/privacy?hl=en&utm_source=ucb",
+    "seo": {
+      "title": "Privacy Policy – Privacy &amp; Terms – Google",
+      "h1": [
+        "Information Google collects",
+        "Why Google collects data",
+        "Your privacy controls",
+        "Sharing your information",
+        "Keeping your information secure",
+        "Exporting &amp; deleting your information",
+        "Retaining your information",
+        "Compliance &amp; cooperation with regulators",
+        "About this policy",
+        "Related privacy practices"
+      ],
+      "h2": [
+        "We want you to understand the types of information we collect as you use our services",
+        "Things you create or provide to us",
+        "Information we collect as you use our services",
+        "We use data to build better services",
+        "You have choices regarding the information we collect and how it's used",
+        "Managing, reviewing, and updating your information",
+        "Exporting, removing & deleting your information",
+        "When you share your information",
+        "When Google shares your information",
+        "We build security into our services to protect your information",
+        "Data transfers",
+        "European requirements",
+        "When this policy applies",
+        "Changes to this policy",
+        "Specific Google services",
+        "Other useful resources",
+        "Key terms",
+        "Additional Context"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://policies.google.com/terms?hl=en&utm_source=ucb",
+    "seo": {
+      "title": "Google Terms of Service – Privacy &amp; Terms – Google",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://policies.google.com/privacy",
+    "seo": {
+      "title": "Privacy Policy – Privacy &amp; Terms – Google",
+      "h1": [
+        "Information Google collects",
+        "Why Google collects data",
+        "Your privacy controls",
+        "Sharing your information",
+        "Keeping your information secure",
+        "Exporting &amp; deleting your information",
+        "Retaining your information",
+        "Compliance &amp; cooperation with regulators",
+        "About this policy",
+        "Related privacy practices"
+      ],
+      "h2": [
+        "We want you to understand the types of information we collect as you use our services",
+        "Things you create or provide to us",
+        "Information we collect as you use our services",
+        "We use data to build better services",
+        "You have choices regarding the information we collect and how it's used",
+        "Managing, reviewing, and updating your information",
+        "Exporting, removing & deleting your information",
+        "When you share your information",
+        "When Google shares your information",
+        "We build security into our services to protect your information",
+        "Data transfers",
+        "European requirements",
+        "When this policy applies",
+        "Changes to this policy",
+        "Specific Google services",
+        "Other useful resources",
+        "Key terms",
+        "Additional Context"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://myaccount.google.com/termsofservice",
+    "seo": {
+      "title": "Google Terms of Service – Privacy &amp; Terms – Google",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/about/giftcards",
+    "seo": {
+      "title": "Where to buy gift cards and promotions – Google Play",
+      "description": "google play gift cards offer endless ways to play. discover gift card promotions, manage gift card spending and find where to buy online and in shops.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/googleplay/answer/134336",
+    "seo": {
+      "title": "https://support.google.com/googleplay/answer/134336",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/googleplay?p=pff_parentguide",
+    "seo": {
+      "title": "https://support.google.com/googleplay?p=pff_parentguide",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/googleplay/answer/7007852",
+    "seo": {
+      "title": "https://support.google.com/googleplay/answer/7007852",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/intl/en_uk/about/play-terms.html",
+    "seo": {
+      "title": "Google Play Terms of Service",
+      "h1": [
+        "Google Play Terms of Service"
+      ],
+      "h2": [
+        "1. Introduction",
+        "2. Your Use of Google Play",
+        "3. Purchases and Payments",
+        "4. Rights and Restrictions"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/googleplay/?p=about_play",
+    "seo": {
+      "title": "https://support.google.com/googleplay/?p=about_play",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "http://developer.android.com/index.html",
+    "seo": {
+      "title": "Android Mobile App Developer Tools – Android Developers",
+      "description": "discover the latest app development tools, platform updates, training, and documentation for developers across every android device.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/?playredirect=true&amp;utm_source=play&amp;utm_medium=google_oo&amp;utm_campaign=GS106288",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/about/",
+    "seo": {
+      "title": "About YouTube - YouTube",
+      "description": "youtube’s mission is to give everyone a voice and show them the world. learn about our brand, community, careers and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/about/press/",
+    "seo": {
+      "title": "Official YouTube Blog for Latest YouTube News &amp; Insights",
+      "description": "explore our official blog for the latest news about youtube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "keywords": "youtube blog, news about youtube, blog insights",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/about/copyright/",
+    "seo": {
+      "title": "Copyright tools: Rightsholders and creators – how YouTube works",
+      "description": "youtube thrives on originality, and in doing so, it protects its creators through copyright. learn how copyright helps to identify unoriginal content.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/creators/",
+    "seo": {
+      "title": "YouTube creators – Education and inspiration for video creators",
+      "description": "explore youtube creators for everything that you need to know about the video and content creator journey, and how to make the most of yours.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/ads/",
+    "seo": {
+      "title": "Redirecting",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://developers.google.com/youtube",
+    "seo": {
+      "title": "YouTube &nbsp;|&nbsp; Google for Developers",
+      "description": "add youtube functionality to your sites and apps.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/about/policies/",
+    "seo": {
+      "title": "YouTube policies crafted for openness – how YouTube works",
+      "description": "youtube&#x27;s policies ensure that our platform allows viewers, creators and advertisers to thrive. review our guidelines on how we maintain a balance.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&amp;utm_source=ythp&amp;utm_medium=LeftNav&amp;utm_content=txt&amp;u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "seo": {
+      "title": "How YouTube works: Giving everyone a voice",
+      "description": "youtube is home to unique voices and an array of content. understand how youtube works, from protecting user privacy to amplifying voices globally.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://about.google/",
+    "seo": {
+      "title": "About Google: Our products, technology and company information - About Google",
+      "description": "learn more about google. explore our innovative ai products and services, and discover how we're using technology to help improve lives around the world.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://about.google/products/",
+    "seo": {
+      "title": "Google's products and services  - About Google",
+      "description": "explore google's helpful products and services, including android, gemini, pixel and search.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://about.google/company-info/",
+    "seo": {
+      "title": "About Google: History, office locations, commitments, initiatives - About Google",
+      "description": "learn more about google’s office locations, history and commitments, plus our key initiatives around sustainability, accessibility and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://blog.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=navigation ",
+    "seo": {
+      "title": "The Keyword | Google Product and Technology News and Stories",
+      "description": "get the latest news and stories about google products, technology and innovation on the keyword, google&#x27;s official blog.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "https://support.google.com/?utm_source=about.google&amp;amp;utm_medium=referral&amp;amp;utm_campaign=productspage",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web&amp;hl=en-US",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://myaccount.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Sign in - Google Accounts",
+      "description": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://support.google.com/accessibility?sjid=2138668768838005940-NA#topic=9071908&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "https://support.google.com/accessibility?sjid=2138668768838005940-NA",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://search.google/google-app/?section=download?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Google App",
+      "description": "explore new ways to search. download the google app to experience lens, ar, search labs, voice search, and more.",
+      "keywords": "google search, search tools, google lens, lens, google ar, arts and culture, search tips, search tricks, how to use google search, search by image, search image by image, google image search, google app, lens app, google lens app, lens for iphone, google app for iphone, google translate, g translate, google identify, google plant identifier, google plant identification",
+      "h1": [
+        "\n            \n                More ways to search "
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://search.google/ways-to-search/circle-to-search/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Circle to Search",
+      "description": "explore new ways to search. download the google app to experience lens, ar, search labs, voice search, and more.",
+      "keywords": "google search, search tools, google lens, lens, google ar, arts and culture, search tips, search tricks, how to use google search, search by image, search image by image, google image search, google app, lens app, google lens app, lens for iphone, google app for iphone, google translate, g translate, google identify, google plant identifier, google plant identification",
+      "h1": [],
+      "h2": [
+        "More ways to search"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://search.google/ways-to-search/ai-mode/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Google AI Mode - a new way to search, whatever’s on your mind",
+      "description": "meet ai mode in google search - a new generative ai search experience powered by gemini 2.0.",
+      "keywords": "google search, search tools, google lens, lens, google ar, arts and culture, search tips, search tricks, how to use google search, search by image, search image by image, google image search, google app, lens app, google lens app, lens for iphone, google app for iphone, google translate, g translate, google identify, google plant identifier, google plant identification",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/search/howsearchworks/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage ",
+    "seo": {
+      "title": "Google Search – what is Google Search and how does it work",
+      "description": "uncover what google search is, how it works and the approach that google has taken to make the world's information accessible to everyone.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://search.google/ways-to-search/lens/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Lens",
+      "description": "explore new ways to search. download the google app to experience lens, ar, search labs, voice search, and more.",
+      "keywords": "google search, search tools, google lens, lens, google ar, arts and culture, search tips, search tricks, how to use google search, search by image, search image by image, google image search, google app, lens app, google lens app, lens for iphone, google app for iphone, google translate, g translate, google identify, google plant identifier, google plant identification",
+      "h1": [],
+      "h2": [
+        "More ways to search"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "http://gemini.google.com?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google/overview/gemini-live/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Gemini Live — get real-time voice assistance from Gemini",
+      "description": "chat naturally with gemini live from google to brainstorm and organize your thoughts; or share a pic, video or file and get spoken responses.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google/overview/canvas/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Gemini Canvas – write, code and create in one space with AI",
+      "description": "bring your ideas to life as apps, games, infographics and more. go from prompt to prototype in minutes, with the power of gemini 2.5 pro, our most capable model.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google/overview/image-generation/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Gemini AI Nano Banana Pro: Google's AI Image Generator &amp; Photo Editor",
+      "description": "with nano banana pro, gemini's ai image generator and photo editor, you can create high-quality images and edit photos into countless new creations.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google/overview/video-generation/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Gemini AI video generator powered by Veo 3.1",
+      "description": "turn text and images into videos with sound in gemini with veo 3.1 and veo 3.1 fast, our latest ai video generator from google.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "description": "discover more about android and learn how our devices can help you do more with google with hyper connectivity, powerful protection and google apps.",
+      "keywords": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web&amp;hl=en-US ",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://labs.google/flow/about?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Flow",
+      "description": "where the next wave of storytelling happens with veo.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://notebooklm.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Google NotebookLM | AI Research Tool & Thinking Partner",
+      "description": "meet notebooklm, the ai research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://labs.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Google Labs: Google's home for AI experiments - Google Labs",
+      "description": "stay up to date with the latest google ai experiments, innovative tools, and technology. explore the future of ai responsibly with google labs.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://www.google.com/photos/editing/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage ",
+    "seo": {
+      "title": "Edit Photos with AI: Magic Eraser and unblur | Google Photos",
+      "description": "reimagine your photos just by asking, remove background distractions with magic eraser and improve blurry photos with unblur in google photos.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/solutions/ai/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage ",
+    "seo": {
+      "title": "AI tools for business | Google Workspace",
+      "description": "learn how google workspace brings powerful generative ai features to gmail, docs, sheets and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google/overview/gemini-in-chrome/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Gemini in Chrome – AI assistance, right in your browser",
+      "description": "get helpful ai assistance from gemini in chrome. understand more, work faster and unlock new ideas effortlessly on any webpage.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/maps?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productspage",
+    "seo": {
+      "title": "Before you continue to Google Maps",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "discover more about android and learn how our devices can help you do more with google with hyper connectivity, powerful protection and google apps.",
+      "keywords": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/auto/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "meet android auto, a hands-free, smart driving companion with apps that let you connect your phone to your car to stay focused, connected and entertained.",
+      "keywords": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/tv/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Android TV",
+      "description": "android tv is google’s operating system for smart tvs and streaming devices. android tv makes it easier for people to watch, play and do everything they love on their tv.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://built-in.google/cars/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Cars with Google built-in | A more connected, personal, and helpful drive.",
+      "description": "all your favorite apps, navigation, and entertainment in your car, truck or suv's infotainment center or dashboard. adjust settings, stay productive, and control devices in your home with your voice. do all that and more with google built-in.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/chrome/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Chrome – Download the fast, secure browser from Google",
+      "description": "get more done with the new google chrome. a more simple, secure and faster web browser than ever, with google’s smarts built in. download now.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/chromebook/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Chromebooks: Do More Everyday with Google AI",
+      "description": "strict-origin-when-cross-origin",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.contacts#_ga=2.64729958.83130407.1517253748-1400634622.1515717381",
+    "seo": {
+      "description": "back up your contacts &amp; access them anywhere",
+      "h1": [
+        ""
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/digital-wellbeing/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Digital Wellbeing | Android",
+      "description": "use android's digital wellbeing tools to find better balance with your phone. more productivity, more time unplugged or more controls for the whole family.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://files.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Files",
+      "description": "files. free up space on your phone. faster way to clean up, find, and share files. get the app",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/finance?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/android/find?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Find Hub",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/category/watches_trackers?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/flights?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&amp;e=-EnableAppDetailsPageRedesign?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "fast and smart typing with emojis, gifs, and more",
+      "h1": [
+        ""
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://gemini.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.gmail.com/intl/en_us/mail/help/about.html?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Gmail: Private and secure email at no cost | Google Workspace",
+      "description": "discover how gmail keeps your account &amp; emails encrypted, private and under your control with the largest secure email service in the world.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://artsandculture.google.com/?utm_source=google&amp;utm_medium=about_google",
+    "seo": {
+      "title": "Google Arts &amp; Culture",
+      "description": "google arts &amp; culture features content from over 2000 leading museums and archives who have partnered with the google cultural institute to bring the world&#39;s treasures online.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://assistant.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Assistant, your own personal Google",
+      "description": "meet your google assistant. ask it questions. tell it to do things. it's your own personal google, always ready to help whenever you need it.",
+      "keywords": "google assistant, assistant",
+      "h1": [],
+      "h2": [
+        "Works with your favourite "
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;e=-EnableAppDetailsPageRedesign?utm_source%3Dabout.google?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "enable 2-step verification to protect your account from hijacking.",
+      "h1": [
+        ""
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/products/calendar/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Shareable online calendar and scheduling – Google Calendar",
+      "description": "use google calendar to share meetings and schedule appointments, for managing what matters in your business and personal life, with google workspace.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/better-together/#cast?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "explore how you can pair all of your devices seamlessly together to create a better, more connected android ecosystem for smoother transfers and more.",
+      "keywords": "connected devices, android ecosystem, pair devices",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/products/chat/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Chat: Messaging and team collaboration | Google Workspace",
+      "description": "learn how google chat helps individuals, groups and businesses connect and collaborate online with secure messaging and powerful features from google workspace.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://edu.google.com/workspace-for-education/classroom/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Classroom Management Tools & Resources - Google for Education",
+      "description": "google classroom is your central place where teaching and learning come together. this easy-to-use and secure tool helps educators manage, measure and enrich learning experiences.",
+      "h1": [],
+      "h2": [
+        "Education Leaders",
+        "Educators",
+        "IT Administrators"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/docs/about/?utm_source=gaboutpage&amp;utm_medium=docslink&amp;utm_campaign=gabout",
+    "seo": {
+      "title": "Google Docs: Online document and PDF editor | Google Workspace",
+      "description": "create online documents and edit pdfs with google docs. collaborate in real time from any device and use ai to generate drafts, templates and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/drive/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Drive: Share files online with secure cloud storage | Google Workspace",
+      "description": "learn about google drive's file-sharing platform that provides a personal, secure cloud storage option to share content with other users.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/earth/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Earth",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://families.google/familylink/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Family Link from Google - Family Safety &amp; Parental Control Tools",
+      "description": "explore family link tools designed to help parents set screen time limits, filter content, and better understand how their families spend time online.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://fi.google.com/about/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Fi Wireless for Phone Plans &amp; Mobile Phone Deals",
+      "description": "explore google fi wireless and enjoy flexible plans, superior coverage, and seamless device integration for a unique mobile experience.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/fit/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Fit",
+      "description": "coaching you to a healthier and more active life",
+      "keywords": "google,fit",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://fonts.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Browse Fonts - Google Fonts",
+      "description": "making the web more beautiful, fast, and open through great typography",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/forms/about/?utm_source=gaboutpage&amp;utm_medium=formslink&amp;utm_campaign=gabout",
+    "seo": {
+      "title": "Google Forms: Online form builder | Google Workspace",
+      "description": "use google forms to easily create forms and surveys to gather data and gain insights from anywhere, with google workspace.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://home.google.com/welcome?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Manage your Smart Home with Google Home | Google Home",
+      "description": "discover google home&#39;s new features that make managing your smart home easier. from device control to automation, google home unites all your smart devices in one app.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/keep/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Keep: Online notes and digital notebook lists | Google Workspace",
+      "description": "create and share digital notes, lists, photos, drawings and audio to save your thoughts with google keep.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/maps/about/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "About – Google Maps",
+      "description": "discover the world with google maps. experience street view, 3d mapping, turn-by-turn directions, indoor maps and more across your devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/products/meet/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Meet: Online web and video conferencing calls | Google Workspace",
+      "description": "use google meet for secure online web conferencing calls and video chat as a part of google workspace.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://messages.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Messages - A simple, helpful text messaging app",
+      "description": "messages is a simple, helpful messaging app that keeps you connected with the people who matter most. text anyone from anywhere across devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/category/connected_home?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://one.google.com/about?utm_source=google_about&amp;utm_medium=web&amp;utm_campaign=products",
+    "seo": {
+      "title": "Get more storage, more AI capabilities and more features – Google One",
+      "description": "google one bundles cloud storage, powerful ai capabilities and helpful features across google – all in one shareable plan.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://pay.google.com/about/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Pay – seamlessly pay online, pay in shops or send money",
+      "description": "google pay is a quick, easy and secure way to pay online, in shops or send money to friends and family. pay the google way.",
+      "h1": [
+        "Pay the"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/photos/about?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Photos: Edit, organise, search and back up your photos",
+      "description": "edit and enhance photos with ai-powered features like magic eraser and unblur on google photos. store, organise and search your memories.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://play.google.com/store/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "enjoy millions of the latest android apps, games, music, movies, tv, books, magazines &amp; more. anytime, anywhere, across your devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/store/books/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "discover ebooks, audiobooks, manga, and comics! explore best sellers, romance, sci-fi, thrillers, self-help, business titles, and more from google play books.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": true,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://play.google.com/googleplaygames/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Play Games: Play games across mobile and PC",
+      "description": "seamless gaming across mobile and pc",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://play.google.com/about/play-pass/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Play Pass",
+      "description": "your pass to hundreds of amazing games and apps, without ads or in-app purchases.",
+      "h1": [],
+      "h2": [
+        "Ready to get started?"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/play-protect/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "https://support.google.com/googleplay/answer/2812853?hl=",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/sheets/about/?utm_source=gaboutpage&amp;utm_medium=sheetslink&amp;utm_campaign=gabout",
+    "seo": {
+      "title": "Google Sheets: Online spreadsheets and templates | Google Workspace",
+      "description": "create online spreadsheets with google sheets. collaborate in real time from any device and leverage ai to generate formatting, analysis and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/products/sites/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Sites: Website creator and hosting | Google Workspace",
+      "description": "create personal or business websites for your team, project or event that look great on any device with google sites in google workspace.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/slides/about/?utm_source=gaboutpage&amp;utm_medium=slideslink&amp;utm_campaign=gabout",
+    "seo": {
+      "title": "Google Slides: Presentation slideshow maker | Google Workspace",
+      "description": "create stunning presentations with google slides. discover slide templates for every use case, use ai to generate unique visualisations and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://tasks.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Sign in - Google Accounts",
+      "description": "",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://translate.google.com/about?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Translate - A Personal Interpreter on Your Phone or Computer",
+      "description": "understand your world and communicate across languages with google translate. translate text, speech, images, documents, websites, and more across your devices.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/trends/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Trends",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://tv.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google TV | All-in-one smart TV streaming platform",
+      "description": "your favourite streaming apps for movies, shows, live tv and more, on one platform. built right into your smart tv or streaming device, google tv is your new home for all the content you love.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/product/google_tv_streamer?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/products/voice/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Voice: Business phone number and systems | Google Workspace",
+      "description": "learn how google voice provides flexible online phone numbers and systems that help businesses of any size stay connected and save time.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://wallet.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Wallet - Your Digital Wallet for Payment Cards and Tickets",
+      "description": "use google wallet for handy access to loyalty cards, tickets, and more. add them to your e-wallet for fast and secure payments online and on the go.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://workspace.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Workspace | Business apps and collaboration tools",
+      "description": "try google workspace's (formerly g suite) secure collaboration and productivity apps for businesses of all sizes. includes gmail, drive, meet and more",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://lens.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Lens - Search What You See",
+      "description": "discover how lens in the google app can help you explore the world around you. use your phone&#39;s camera to search what you see in an entirely new way.",
+      "keywords": "google lens, reverse image search, camera search, visual search, camera translate",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://notebooklm.google?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google NotebookLM | AI Research Tool & Thinking Partner",
+      "description": "meet notebooklm, the ai research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/category/phones?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/product/pixel_buds?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/us/product/pixel_tablet?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://store.google.com/category/watches?utm_source=about&amp;utm_medium=google_oo&amp;utm_campaign=GS108110&amp;utm_content=web",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://scholar.google.com/intl/en/scholar/about.html?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "About Google Scholar",
+      "h1": [
+        ""
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://search.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Home",
+      "description": "explore new ways to search. download the google app to experience lens, ar, search labs, voice search, and more.",
+      "keywords": "google search, search tools, google lens, lens, google ar, arts and culture, search tips, search tricks, how to use google search, search by image, search image by image, google image search, google app, lens app, google lens app, lens for iphone, google app for iphone, google translate, g translate, google identify, google plant identifier, google plant identification",
+      "h1": [],
+      "h2": [
+        "More ways to search"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://shopping.google.com/u/0/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Update your browser to continue",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/streetview/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Explore Street View and add your own 360 images to Google Maps.",
+      "description": "learn how to navigate and use street view. explore the world without leaving your couch and create and add your own images into google maps.",
+      "keywords": "street view, google street view",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/travel/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.waze.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Driving directions, live traffic &amp; road conditions updates - Waze",
+      "description": "realtime driving directions based on live traffic updates from waze - get the best route to your destination from fellow drivers",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://wearos.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Wear OS by Google | The smartwatch operating system that connects you to what matters most",
+      "description": "connect to your google apps, health and wellness, and more right from your wrist with a wear os smartwatch. maps and directions, music and media controls available to you with a glance.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/yt/about/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "About YouTube - YouTube",
+      "description": "youtube’s mission is to give everyone a voice and show them the world. learn about our brand, community, careers and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtubekids.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "YouTube Kids",
+      "description": "share your videos with friends, family and the world",
+      "keywords": "video, sharing, camera phone, video phone, free, upload",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://music.youtube.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        ""
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://tv.youtube.com/welcome/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist&amp;utm_servlet=prod&amp;rd_rsn=lo",
+    "seo": {
+      "title": "YouTube TV - Watch &amp; DVR Live Sports, Shows &amp; News",
+      "description": "stream live tv from abc, cbs, fox, nbc, espn &amp; popular cable networks in english and spanish. record without dvr storage space limits. try it free. cancel anytime.",
+      "h1": [],
+      "h2": [
+        "\n                                ",
+        "CNET",
+        "US Weekly"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.android.com/enterprise?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "description": "make android work for your business. our enterprise mobility solutions provide security and multi-device management at scale, with a range of device options.",
+      "keywords": "enterprise mobility management, enterprise mobile solution, mobile security for business",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.blogger.com/features?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Blogger.com - Create a unique and beautiful blog easily.",
+      "description": "#ffffff",
+      "h1": [],
+      "h2": [
+        "Publish your passions, your way",
+        "\n          Choose the perfect design\n        ",
+        "\n          Get a domain\n        ",
+        "\n          Earn money\n        ",
+        "\n          Know your audience\n        ",
+        "\n          Hang onto your memories\n        ",
+        "Join millions of others"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/business/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://chromeenterprise.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Chrome Enterprise – the trusted enterprise browser for your business",
+      "description": "",
+      "keywords": "strict-origin-when-cross-origin",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://chromeos.google/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "ChromeOS – the cloud-first, secure OS for your business",
+      "description": "",
+      "keywords": "strict-origin-when-cross-origin",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://admob.google.com/home/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google AdMob - Earn More With Mobile App Monetization",
+      "description": "summary",
+      "h1": [],
+      "h2": [
+        "See how much you could earn from AdMob"
+      ]
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/adsense/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google AdSense",
+      "description": "with google adsense, you can earn money from your online content.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://admanager.google.com/home/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Ad Manager – Integrated Advertising Management Platform",
+      "description": "grow revenue wherever your users are with an integrated ad management platform that surfaces insights for smarter business decisions.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/analytics/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Analytics Tools &amp; Solutions for Your Business – Google Analytics",
+      "description": "google analytics gives you the tools you need to better understand your customers. you can then use those business insights to take action, such as improving your website, creating tailored audience lists and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://assistant.google.com/business/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Use the Google Assistant for Business - Google Assistant",
+      "description": "get started with the google assistant for your business to help your customers. now available across more than 500m devices worldwide (and counting).",
+      "keywords": "google assistant, assistant",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://cloud.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Cloud Computing Services | Google Cloud",
+      "description": "meet your business challenges head on with cloud computing services from google, including data management, hybrid &amp; multi-cloud, and ai &amp; ml.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://mapsplatform.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Maps Platform – 3D mapping and Geospatial Analytics",
+      "description": "empower your location solutions with google maps platform. explore robust apis and sdks for asset tracking, route optimisation, geospatial analytics, 3d maps and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://www.google.com/webmasters/tools/home?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Search Console",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/retail/manufacturer-center/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/retail/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Before you continue",
+      "h1": [
+        "Before you continue to Google"
+      ],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://pixel.google/business/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "The Google phone. Built for business. – Pixel for Business",
+      "description": "secure. seamless. helpful. pixel has the tools that you need for your team in one powerful device.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.google.com/tagmanager/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Web &amp; Mobile Tag Management Solutions – Google Tag Manager",
+      "description": "google tag manager helps make tag management simple, easy and reliable with tag management solutions that allow small businesses to deploy website tags all in one place.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://www.youtube.com/ads/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist ",
+    "seo": {
+      "title": "Redirecting",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://developer.android.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Android Mobile App Developer Tools – Android Developers",
+      "description": "discover the latest app development tools, platform updates, training, and documentation for developers across every android device.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "http://cloud.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Cloud Computing Services | Google Cloud",
+      "description": "meet your business challenges head on with cloud computing services from google, including data management, hybrid &amp; multi-cloud, and ai &amp; ml.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://firebase.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Firebase | Google&apos;s Mobile and Web App Development Platform",
+      "description": "discover firebase, google’s mobile and web app development platform that helps developers build apps and games that users will love.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://developers.google.com/admob?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "AdMob &nbsp;|&nbsp; Google for Developers",
+      "description": "discover how to monetize your mobile apps with targeted in-app advertising that matches criteria you set.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/google-ads?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Ads &nbsp;|&nbsp; Google for Developers",
+      "description": "promote your website, products, and app to the right users with google ads.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/analytics?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Analytics &nbsp;|&nbsp; Google for Developers",
+      "description": "with google analytics, you can fine-tune your digital strategy, optimize your campaigns, and takeyour online presence to new heights.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google for Developers - from AI and Cloud to Mobile and Web",
+      "description": "explore developer resources, community events, and inspirational stories to help you build smarter and ship faster.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/identity?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Identity &nbsp;|&nbsp; Google for Developers",
+      "description": "enable users to sign into apps and authorize apps to use google services",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/pay?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Pay &nbsp;|&nbsp; Google for Developers",
+      "description": "discover links to documentation about creating apps for google pay and to learn more about google wallet.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developer.android.com/distribute/console?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Play Console &nbsp;|&nbsp; Android Developers",
+      "description": "publish your apps and games with google play console and grow your business on google play. benefit from features that help you improve your app&#39;s quality, engage your audience, earn revenue, and more.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/wallet?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Wallet &nbsp;|&nbsp; Google for Developers",
+      "description": "google wallet is a secure container that allows users to add everyday things on their android device and enables developers to securely store and provide easy access to wallet objects across android and the broader google ecosystem.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/interactive-media-ads?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Interactive Media Ads SDKs &nbsp;|&nbsp; Google for Developers",
+      "description": "monetize video, audio, or gaming content with multimedia advertising.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/search?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google Search Central (formerly Webmasters) | Web SEO Resources &nbsp;|&nbsp; Google for Developers",
+      "description": "google search central provides seo resources to help you get your website on google search. learn how to make your website more discoverable today.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://www.tensorflow.org/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "TensorFlow",
+      "description": "an end-to-end open source machine learning platform for everyone. discover tensorflow&#39;s flexible ecosystem of tools, libraries and community resources.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://developers.google.com/web/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist",
+    "seo": {
+      "title": "Google for Developers - from AI and Cloud to Mobile and Web",
+      "description": "explore developer resources, community events, and inspirational stories to help you build smarter and ship faster.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": true
+    }
+  },
+  {
+    "url": "https://www.blog.google/?utm_source=about&amp;utm_medium=referral&amp;utm_campaign=footer-link",
+    "seo": {
+      "title": "The Keyword | Google Product and Technology News and Stories",
+      "description": "get the latest news and stories about google products, technology and innovation on the keyword, google&#x27;s official blog.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  },
+  {
+    "url": "https://about.google/brand-resource-center/",
+    "seo": {
+      "title": "Brand Resource Center",
+      "description": "whether you&amp;rsquo;re a small business owner or a filmmaker, a software developer or a teacher, we&amp;rsquo;ll help you learn when and how you can use our logo, product icons, and other brand elements in your work.",
+      "h1": [],
+      "h2": []
+    },
+    "flags": {
+      "nsfw": false,
+      "ai": false
+    }
+  }
+]

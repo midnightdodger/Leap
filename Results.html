@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body{
+            background-color: #1f1f1f;
+            color: white;
+            margin: 0;
+        }
+        #topbar{
+            display: flex;
+            width: 100%;
+            height: 20%;
+            background-color: black;
+        }
+        #topbar img{
+            width: 20%;
+        }
+        #ad{
+            position: absolute;
+            top: 0;
+            right: 8px;
+        }
+        #ad *{
+            margin: 0;
+        }
+        a{
+            color: white;
+        }
+        #topbar h2{
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);      
+        }
+        .search{
+            position: relative;
+            display: flex;
+            width: 95%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .search *, .desc *, .subpages *{
+            margin: 0;
+        }
+        .img{
+            border: 1px white solid;
+            max-width: 20%;
+            max-height: 20%;
+            width: 20%;
+            min-height: 20%;
+        }
+        .details{
+            width: 20%
+        }
+        .desc{
+            width: 75%;
+        }
+    </style>
+</head>
+<body>
+    <div id="topbar">
+        <img src="assets/Logo.svg">
+        <div id="ad">
+            <p>Lambda Core</p>
+            <p>Leap V0.2</p>
+            <a href="#">Support us!</a>
+        </div>
+    </div>
+    <fieldset class="search">
+        <legend>URL</legend>
+        <div class="img">
+            <img src="" alt="Relevant image">
+        </div>
+        <div class="details">
+            <div>
+                <h2>Page title</h2>
+            </div>
+            <div class="subpages">
+                <ul>
+                    <li>subpage 1</li>
+                    <li>subpage 2</li>
+                </ul>
+            </div>
+        </div>
+        <div class="desc">
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur adipiscing elit quisque faucibus ex sapien vitae. Ex sapien vitae pellentesque sem placerat in id. Placerat in id cursus mi pretium tellus duis. Pretium tellus duis convallis tempus leo eu aenean.</p>
+        </div>
+    </fieldset>
+
+    <script>
+    const params = new URLSearchParams(location.search);
+    const term = params.get("q");
+    const lucky = params.get("lucky"); // Similar to Googles, this will open any page matching within the top results
+
+    if (lucky){
+        
+    }
+
+    if(term){
+        document.title = term + " - Leap!";
+        const body = document.body;
+        let topbar = document.getElementById("topbar")
+        const query = document.createElement("h2");
+        query.textContent = term;
+        topbar.appendChild(query);
+    } else {
+        window.history.back();
+    }
+</script>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(reg => {
+          console.log('Service Worker registered:', reg.scope);
+        })
+        .catch(err => {
+          console.log('Service Worker registration failed:', err);
+        });
+    });
+  }
+</script>
+
+</body>
+</html>

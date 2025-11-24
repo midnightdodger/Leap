@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Leap!</title>
+</head>
+
+<body>
+
+    <aside id="settings" aria-label="Settings panel">
+        <fieldset>
+            <legend>Font Sizes</legend>
+            <div class="setting-line"><label for="h1_size">Titles:</label><input id="h1_size" type="number"></div>
+            <div class="setting-line"><label for="h2_size">Details:</label><input id="h2_size" type="number"></div>
+            <div class="setting-line"><label for="p_size">Info:</label><input id="p_size" type="number"></div>
+            <div class="setting-line"><label for="a_size">Links:</label><input id="a_size" type="number"></div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Widgets</legend>
+            <button>Add widgets</button>
+            <button>Remove widgets</button>
+            <button>Rearrange widgets</button>
+        </fieldset>
+
+        <fieldset>
+            <legend>Privacy</legend>
+            <div class="setting-line"><label>AI content:</label><input type="checkbox"></div>
+            <div class="setting-line"><label>NSFW content:</label><input type="checkbox"></div>
+            <div class="setting-line"><label>Site checker:</label><input type="checkbox"></div>
+            <div class="setting-line"><label>Proxy:</label><input type="checkbox"></div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Theme</legend>
+            <div class="setting-line"><label>Background</label><input class="selector" type="color" id="bg_color"></div>
+            <div class="setting-line"><label>Titles</label><input class="selector" type="color" id="title_color"></div>
+            <div class="setting-line"><label>Details</label><input class="selector" type="color" id="details_color"></div>
+            <div class="setting-line"><label>Info</label><input class="selector" type="color" id="info_color"></div>
+            <div class="setting-line"><label>Links</label><input class="selector" type="color" id="link_color"></div>
+            <div class="setting-line"><label>Borders</label><input class="selector" type="color" id="border_color"></div>
+        </fieldset>
+    </aside>
+
+    <nav id="options">
+        <button onclick="toggleSettings()">Settings</button>
+        <button>Privacy</button>
+        <button>Net-zero</button>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'W7W81BY9A5');kofiwidget2.draw();</script> 
+    </nav>
+
+    <footer id="fuckgoogle">
+        <p>Lambda Core - Working with you</p>
+    </footer>
+
+    <main id="search">
+        <header>
+            <img src="assets/Logo.svg" id="logo" alt="Leap! logo">
+        </header>
+
+        <input placeholder="Search the internet!" id="search_bar" aria-label="Search input">
+
+        <div id="search_options">
+            <button id="left">Search</button>
+            <button id="right">I'm feeling lucky</button>
+        </div>
+    </main>
+    <script>
+        // Grab your color inputs
+        const bgColor = document.getElementById("bg_color");
+        const titleColor = document.getElementById("title_color");
+        const detailsColor = document.getElementById("details_color");
+        const infoColor = document.getElementById("info_color");
+        const linkColor = document.getElementById("link_color");
+        const borderColor = document.getElementById("border_color");
+
+        // Background color
+        bgColor.addEventListener("input", () => {
+            document.body.style.backgroundColor = bgColor.value;
+        });
+
+        // Title colors (h1, h2)
+        titleColor.addEventListener("input", () => {
+            document.querySelectorAll("h1,h2").forEach(el => el.style.color = titleColor.value);
+        });
+
+        // Details color (h2)
+        detailsColor.addEventListener("input", () => {
+            document.querySelectorAll("h2").forEach(el => el.style.color = detailsColor.value);
+        });
+
+        // Info color (paragraphs)
+        infoColor.addEventListener("input", () => {
+            document.querySelectorAll("p").forEach(el => el.style.color = infoColor.value);
+        });
+
+        // Links
+        linkColor.addEventListener("input", () => {
+            document.querySelectorAll("a").forEach(el => el.style.color = linkColor.value);
+        });
+
+        // Fieldset borders
+        borderColor.addEventListener("input", () => {
+            document.querySelectorAll("fieldset").forEach(el => el.style.borderColor = borderColor.value);
+        });
+
+
+        const panel = document.getElementById("settings");
+        const search = document.getElementById("search")
+        function toggleSettings() {
+            const panelStyle = window.getComputedStyle(panel).display;
+
+            if (window.matchMedia("(max-width: 768px)").matches) {
+                if (panelStyle === "none") {
+                    panel.style.display = "flex";
+                    panel.style.zIndex = "10000"
+                    setTimeout(() => {
+                        panel.style.opacity = "1";
+                    }, 10);
+                } else {
+                    panel.style.opacity = "0";
+                    search.style.zIndex = "0"
+                    setTimeout(() => {
+                        panel.style.display = "none";
+                    }, 500);
+                }
+            } else {
+                if (panel.style.left === "-20%" || panel.style.left === "") {
+                    panel.style.left = "0%";
+                    document.body.style.overflow = "visible";
+                } else {
+                    panel.style.left = "-20%";
+                    document.body.style.overflow = "hidden";
+                }
+            }
+        }
+
+
+
+    </script>
+    <script src="passthrough.js"></script>
+</body>
+</html>
