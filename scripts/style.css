@@ -9,7 +9,9 @@
             padding: 0;
             box-sizing: border-box;
         }
-
+        #logo{
+            width: 20vw;
+        }
         body {
             height: 100vh;
             background-color: black;
