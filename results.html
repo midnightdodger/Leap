@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search Results</title>
+
+<style>
+body {
+    background-color: #1f1f1f;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#topbar {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+#query {
+    color: white;
+}
+
+#topbar img {
+    height: 7.5vw;
+}
+
+/* GRID LAYOUT */
+#results {
+    width: 95%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    padding: 20px 0;
+    justify-items: center;
+}
+
+/* RESULT CARD */
+a.resultLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.result_box {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    transition: 0.15s;
+    width: 30vw; /* fixed width */
+    min-height: 80px;
+    box-sizing: border-box;
+}
+
+.result_box:hover {
+    transform: scale(1.03);
+    background-color: #2a2a2a;
+}
+
+.favicon img {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+}
+
+.data {
+    overflow: hidden;
+    flex: 1;
+}
+
+.data h3, .data p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+}
+.result_box:hover .data h3,
+.result_box:hover .data p {
+    animation: scrollText 6s linear infinite;
+}
+
+@keyframes scrollText {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+</style>
+</head>
+
+<body>
+
+<div id="topbar">
+    <img src="Assets/Logo.svg" alt="Logo">
+    <h1 id="query">Please search something on the homepage</h1>
+</div>
+
+<div id="results"></div>
+
+<script>
+let query = localStorage.getItem("query") || "Please search something on the homepage";
+document.getElementById("query").textContent = query;
+
+async function loadResults() {
+    try {
+        const res = await fetch("results.json");
+        const sites = await res.json();
+
+        const q = query.toLowerCase().trim();
+        const resultsContainer = document.getElementById("results");
+        resultsContainer.innerHTML = "";
+
+        const filtered = sites.filter(site => {
+            const url = site.url.toLowerCase();
+            const title = (site.seo.title || "").toLowerCase();
+            return url.includes(q) || title.includes(q);
+        });
+
+        if (filtered.length === 0) {
+            resultsContainer.innerHTML = `
+                <p style="color:white; padding:20px; font-size:1.2em;">
+                    No results found for "${query}"
+                </p>
+            `;
+            return;
+        }
+
+        filtered.forEach(site => {
+            const linkWrapper = document.createElement("a");
+            linkWrapper.href = site.url;
+            linkWrapper.target = "_blank";
+            linkWrapper.className = "resultLink";
+
+            const resultBox = document.createElement("div");
+            resultBox.className = "result_box";
+
+            const favicon = document.createElement("div");
+            favicon.className = "favicon";
+            const faviconImg = document.createElement("img");
+            faviconImg.src = "https://www.google.com/s2/favicons?sz=64&domain_url=" + site.url;
+            favicon.appendChild(faviconImg);
+
+            const data = document.createElement("div");
+            data.className = "data";
+
+            const siteTitle = document.createElement("h3");
+            siteTitle.textContent = site.seo.title;
+
+            const siteUrl = document.createElement("p");
+            siteUrl.textContent = site.url;
+
+            data.appendChild(siteTitle);
+            data.appendChild(siteUrl);
+
+            resultBox.appendChild(favicon);
+            resultBox.appendChild(data);
+            linkWrapper.appendChild(resultBox);
+
+            resultsContainer.appendChild(linkWrapper);
+        });
+
+    } catch (err) {
+        console.error("Error fetching results:", err);
+    }
+}
+
+loadResults();
+</script>
+
+</body>
+</html>
