@@ -1,5 +1,3 @@
-
-
 let query = localStorage.getItem("query") || "Please search something on the homepage";
 document.getElementById("query").textContent = query;
 
@@ -93,7 +91,7 @@ function handleLuckyRedirect(results) {
     message.style.color = "white";
     message.style.padding = "20px";
     message.style.fontSize = "1.2em";
-    message.textContent = "Finding something great for you...";
+    message.textContent = "Spin the wheel of luck!";
     resultsContainer.appendChild(message);
 
     setTimeout(() => {

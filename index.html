@@ -5,20 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="scripts/style.css">
     <title>Leap</title>
-
-    <style>
-
-    </style>
 </head>
 <body>
     <header>
         <button onclick="menu()">Settings</button>
-        <button onclick="alert('This service was designed to be net nuetral from the start')">Net-zero</button>
-        <button onclick="window.open('https://github.com/midnightdodger/Leap')">Contribute</button>
+        <button onclick="alert('Leap is designed to be as environmentally friendly as possible, just as every Lambda Core service, whilst maximising features for the users.')">Net-zero</button>
+        <button onclick="toggleContribute()">Contribute</button>
         <button onclick="window.open('https://ko-fi.com/W7W81BY9A5')">Support us!</button>
         <h2>Leap V1.1</h2>
     </header>
     <div id="main">
+        <div id="contribute" aria-label="Contribution links" aria-hidden="true" class="hidden" tabindex="-1">
+            <h3>Contribute to Leap</h3>
+            <p>Share improvements or update the public results data.</p>
+            <div class="contribute-links">
+                <a class="contribute-btn" href="https://github.com/midnightdodger/Leap" target="_blank" rel="noopener noreferrer">View Code</a>
+                <a class="contribute-btn secondary" href="https://raw.githubusercontent.com/midnightdodger/Leap/refs/heads/main/results.json" target="_blank" rel="noopener noreferrer">Edit Results</a>
+            </div>
+        </div>
         <aside id="settings" aria-label="Settings panel" aria-hidden="true">
             <div class="settings-inner">
                 <button class="settings-close" onclick="menu()" aria-label="Close settings">Close ✕</button>
@@ -30,7 +34,7 @@
                     <div class="setting-line"><label for="a_size">Links:</label><input id="a_size" type="number"></div>
                 </fieldset>
 
-                <fieldset>
+                <fieldset id="widgets">
                     <legend>Widgets</legend>
                     <button>Add widgets</button>
                     <button>Remove widgets</button>

@@ -139,3 +139,21 @@ function applyTheme() {
         root.style.setProperty(cssVar, `${getSetting(key)}px`);
     });
 }
+
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker
+            .register("service-worker.js")
+            .catch(err => console.error("Service worker registration failed:", err));
+    });
+}
+
+function toggleContribute() {
+    const contributePanel = document.getElementById("contribute");
+    if (!contributePanel) return;
+    const isHidden = contributePanel.classList.toggle("hidden");
+    contributePanel.setAttribute("aria-hidden", isHidden ? "true" : "false");
+    if (!isHidden) {
+        contributePanel.focus();
+    }
+}
