@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="scripts/style.css">
     <title>Leap</title>
-    <meta property="og:title" content="Leap" />
-    <meta property="og:description" content="A search engine without all the fluff" />
-    <meta property="og:image" content="https://github.com/midnightdodger/Leap/blob/main/Assets/logo.png?raw=true" />
-    <meta name="theme-color" content="#1f1f1f" />
+
+    <style>
+
+    </style>
 </head>
 <body>
     <header>
@@ -16,43 +16,47 @@
         <button onclick="alert('This service was designed to be net nuetral from the start')">Net-zero</button>
         <button onclick="window.open('https://github.com/midnightdodger/Leap')">Contribute</button>
         <button onclick="window.open('https://ko-fi.com/W7W81BY9A5')">Support us!</button>
-        <h2>Leap V1.0</h2>
+        <h2>Leap V1.1</h2>
     </header>
-    <script src="scripts/settings.js"></script>
     <div id="main">
-        <aside id="settings" aria-label="Settings panel">
-            <fieldset>
-                <legend>Font Sizes</legend>
-                <div class="setting-line"><label for="h1_size">Titles:</label><input id="h1_size" type="number"></div>
-                <div class="setting-line"><label for="h2_size">Details:</label><input id="h2_size" type="number"></div>
-                <div class="setting-line"><label for="p_size">Info:</label><input id="p_size" type="number"></div>
-                <div class="setting-line"><label for="a_size">Links:</label><input id="a_size" type="number"></div>
-            </fieldset>
+        <aside id="settings" aria-label="Settings panel" aria-hidden="true">
+            <div class="settings-inner">
+                <button class="settings-close" onclick="menu()" aria-label="Close settings">Close ✕</button>
+                <fieldset>
+                    <legend>Font Sizes</legend>
+                    <div class="setting-line"><label for="h1_size">Titles:</label><input id="h1_size" type="number"></div>
+                    <div class="setting-line"><label for="h2_size">Details:</label><input id="h2_size" type="number"></div>
+                    <div class="setting-line"><label for="p_size">Info:</label><input id="p_size" type="number"></div>
+                    <div class="setting-line"><label for="a_size">Links:</label><input id="a_size" type="number"></div>
+                </fieldset>
 
-            <fieldset>
-                <legend>Widgets</legend>
-                <button>Add widgets</button>
-                <button>Remove widgets</button>
-                <button>Rearrange widgets</button>
-            </fieldset>
+                <fieldset>
+                    <legend>Widgets</legend>
+                    <button>Add widgets</button>
+                    <button>Remove widgets</button>
+                    <button>Rearrange widgets</button>
+                </fieldset>
 
-            <fieldset>
-                <legend>Privacy</legend>
-                <div class="setting-line"><label>AI content:</label><input type="checkbox"></div>
-                <div class="setting-line"><label>NSFW content:</label><input type="checkbox"></div>
-                <div class="setting-line"><label>Site checker:</label><input type="checkbox"></div>
-                <div class="setting-line"><label>Proxy:</label><input type="checkbox"></div>
-            </fieldset>
+                <fieldset>
+                    <legend>Privacy</legend>
+                    <div class="setting-line"><label for="ai_filter">AI content:</label><input id="ai_filter" type="checkbox" onclick="AI()"></div>
+                    <div class="setting-line"><label for="nsfw_filter">NSFW content:</label><input id="nsfw_filter" type="checkbox" onclick="NSFW()"></div>
+                    <div class="setting-line"><label>Site checker:</label><input type="checkbox" onclick="unadded()"></div>
+                    <div class="setting-line"><label>Proxy:</label><input type="checkbox" onclick="unadded()"></div>
+                </fieldset>
 
-            <fieldset>
-                <legend>Theme</legend>
-                <div class="setting-line"><label>Background</label><input class="selector" type="color" id="bg_color"></div>
-                <div class="setting-line"><label>Titles</label><input class="selector" type="color" id="title_color"></div>
-                <div class="setting-line"><label>Details</label><input class="selector" type="color" id="details_color"></div>
-                <div class="setting-line"><label>Info</label><input class="selector" type="color" id="info_color"></div>
-                <div class="setting-line"><label>Links</label><input class="selector" type="color" id="link_color"></div>
-                <div class="setting-line"><label>Borders</label><input class="selector" type="color" id="border_color"></div>
-            </fieldset>
+                <fieldset>
+                    <legend>Theme</legend>
+                    <div class="setting-line"><label>Background</label><input class="selector" type="color" id="bg_color"></div>
+                    <div class="setting-line"><label>Header</label><input class="selector" type="color" id="header_color"></div>
+                    <div class="setting-line"><label>Footer</label><input class="selector" type="color" id="footer_color"></div>
+                    <div class="setting-line"><label>Titles</label><input class="selector" type="color" id="title_color"></div>
+                    <div class="setting-line"><label>Details</label><input class="selector" type="color" id="details_color"></div>
+                    <div class="setting-line"><label>Info</label><input class="selector" type="color" id="info_color"></div>
+                    <div class="setting-line"><label>Links</label><input class="selector" type="color" id="link_color"></div>
+                    <div class="setting-line"><label>Borders</label><input class="selector" type="color" id="border_color"></div>
+                </fieldset>
+            </div>
         </aside>
         <div id="content">
             <img src="Assets/logo.png" alt="Logo" id="logo">
@@ -87,5 +91,6 @@
     <footer>
         <h3>Lambda Core - Working with you</h3>
     </footer>
+    <script src="scripts/settings.js"></script>
 </body>
 </html>

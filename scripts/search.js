@@ -1,3 +1,5 @@
+
+
 let query = localStorage.getItem("query") || "Please search something on the homepage";
 document.getElementById("query").textContent = query;
 
@@ -10,10 +12,21 @@ async function loadResults() {
         const resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
 
+        const blockAI = localStorage.getItem("BlockAI") === "true";
+        const blockNSFW = localStorage.getItem("BlockNSFW") === "true";
+        const searchMode = localStorage.getItem("search") || "search";
+
         const filtered = sites.filter(site => {
             const url = site.url.toLowerCase();
             const title = (site.seo.title || "").toLowerCase();
-            return url.includes(q) || title.includes(q);
+            const matchesQuery = url.includes(q) || title.includes(q);
+            if (!matchesQuery) return false;
+
+            const flags = site.flags || {};
+            if (blockAI && flags.ai) return false;
+            if (blockNSFW && flags.nsfw) return false;
+
+            return true;
         });
 
         if (filtered.length === 0) {
@@ -22,6 +35,11 @@ async function loadResults() {
                     No results found for "${query}"
                 </p>
             `;
+            return;
+        }
+
+        if (searchMode === "lucky") {
+            handleLuckyRedirect(filtered);
             return;
         }
 
@@ -65,3 +83,21 @@ async function loadResults() {
 }
 
 loadResults();
+
+function handleLuckyRedirect(results) {
+    const resultsContainer = document.getElementById("results");
+    const topFive = results.slice(0, 5);
+    const choice = topFive[Math.floor(Math.random() * topFive.length)];
+
+    const message = document.createElement("p");
+    message.style.color = "white";
+    message.style.padding = "20px";
+    message.style.fontSize = "1.2em";
+    message.textContent = "Finding something great for you...";
+    resultsContainer.appendChild(message);
+
+    setTimeout(() => {
+        localStorage.setItem("search", "search");
+        window.location.href = choice.url;
+    }, 500);
+}

@@ -3,105 +3,27 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Search Results</title>
+<link rel="stylesheet" href="scripts/results.css">
+<title>Leap</title>
 
 <style>
-body {
-    background-color: #1f1f1f;
-    margin: 0;
-    font-family: sans-serif;
-}
 
-#topbar {
-    background-color: black;
-    display: flex;
-    align-items: center;
-    padding: 10px;
-}
-
-#query {
-    color: white;
-}
-
-#topbar img {
-    height: 7.5vw;
-}
-
-/* GRID LAYOUT */
-#results {
-    width: 95%;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
-    padding: 20px 0;
-    justify-items: center;
-}
-
-/* RESULT CARD */
-a.resultLink {
-    text-decoration: none;
-    color: inherit;
-}
-
-.result_box {
-    background-color: black;
-    color: white;
-    padding: 15px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    cursor: pointer;
-    transition: 0.15s;
-    width: 30vw; /* fixed width */
-    min-height: 80px;
-    box-sizing: border-box;
-}
-
-.result_box:hover {
-    transform: scale(1.03);
-    background-color: #2a2a2a;
-}
-
-.favicon img {
-    width: 50px;
-    height: 50px;
-    flex-shrink: 0;
-}
-
-.data {
-    overflow: hidden;
-    flex: 1;
-}
-
-.data h3, .data p {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin: 0;
-}
-.result_box:hover .data h3,
-.result_box:hover .data p {
-    animation: scrollText 6s linear infinite;
-}
-
-@keyframes scrollText {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
-}
 </style>
 </head>
 
 <body>
 
 <div id="topbar">
-    <img src="Assets/Logo.svg" alt="Logo">
-    <h1 id="query">Please search something on the homepage</h1>
+    <img src="Assets/logo.png" alt="Logo" id="logo">
+    <div id="query_template">
+        <h2>You are searching for:</h2>
+        <h1 id="query">Please search something on the homepage</h1>
+    </div>
 </div>
 
 <div id="results"></div>
 
+<script src="scripts/settings.js"></script>
 <script src="scripts/search.js"></script>
 
 </body>
